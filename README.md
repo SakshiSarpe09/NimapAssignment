@@ -1,0 +1,2 @@
+# NimapAssignment
+ this is ProductCategoryAssignment
